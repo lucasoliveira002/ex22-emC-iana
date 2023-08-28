@@ -5,7 +5,7 @@ int main(void){
 
     // TESTE DO COMANDO WHILE
     
-    while (num < 4)
+while (num < 4)
 {
 
 printf ("\n Digite um numero:");
